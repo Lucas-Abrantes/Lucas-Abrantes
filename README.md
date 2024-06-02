@@ -24,5 +24,4 @@
   
   ### Apaixonado por tecnologia!
   
-  ### Me interesso por aprendizagem de máquina, desenvolvimento de software embarcado e telecomunicações.   
 </div>
